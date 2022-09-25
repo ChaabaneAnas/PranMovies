@@ -2,7 +2,13 @@
 
 # PRANMOVIES
 
-> A movie website that displays movie from an Api and lets a user add reviews, likes and comment with a click.
+> A attractive Movie Streaming web app that displays movie from an Api and lets a user add reviews, likes and comment,
+
+
+## Overview 
+
+![image](https://user-images.githubusercontent.com/99597333/192145090-4652a22c-d186-456f-8598-2da1dc6f43e9.png) ![image](https://user-images.githubusercontent.com/99597333/192145123-64ae464a-d50b-4dc6-9b7a-a42309e4f664.png)
+
 
 ## Built With
 
